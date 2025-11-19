@@ -1,0 +1,15 @@
+# 🐄哞哞ㄉGemini Banana生成式填充插件🐄
+
+### 安裝方法:
+
+下載壓縮包'nano.bannana.medicraft.zip'，解壓縮將整個nano.bannana.medicraft資料夾丟到自己的Phtoshop下的Plug-ins裏頭
+
+![](https://i.im.ge/2025/11/19/4FIU7W.ScreenShot20251119212906.jpeg)
+
+打開Photoshop，按照以下設定，當然記得自己去用[自己的gmail帳號申請一個免費Google AI studio的API KEY](https://aistudio.google.com/)
+
+![](https://i.im.ge/2025/11/19/4FL1MJ.ScreenShot20251119213218.jpeg)
+
+這個插件適用於Photoshop 2026至大約2021年有效，不管你是用官方Adobe CC 正版下載，還是來路不明的慈善版，皆可作用。
+
+無聊或想[聯繫我可至我的blog找到我聯絡方式](https://guenterchao.net/)，但若是安裝問題我講得夠清楚了你把這github連結貼給GPT，它都可以引導你
