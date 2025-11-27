@@ -1,5 +1,9 @@
 # 🐄哞哞ㄉGemini Banana生成式填充插件🐄
 
+注意!
+moomoo.bannana.medicraft.zip ---> 是新版 Banana Pro 版，需要付費API KEY
+nano.bannana.medicraft.zip ---> 舊版 Banana nano 可用免費API KEY
+
 ### 安裝方法:
 
 下載壓縮包'nano.bannana.medicraft.zip'，解壓縮將整個nano.bannana.medicraft資料夾丟到自己的Phtoshop下的Plug-ins裏頭
