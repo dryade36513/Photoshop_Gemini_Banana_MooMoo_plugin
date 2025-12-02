@@ -1,5 +1,7 @@
 # 🐄哞哞ㄉGemini Banana生成式填充插件🐄
 
+![](/pic/003.jpg)
+
 ### 注意!
 moomoo.bannana.medicraft.zip ---> 是新版 Banana Pro 版，需要付費API KEY
 
